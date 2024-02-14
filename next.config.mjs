@@ -8,7 +8,7 @@ const nextConfig = {
   },
   images: {
     domains: [],
-    formats: [],
+    formats: ['image/avif', 'image/webp'],
   },
 };
 export default nextConfig;
